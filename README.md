@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Movie Matcher**
 
-- 📝 I regularly write articles on [https://medium.com](https://medium.com)
-
 - 💬 Ask me about **Ruby, Rails, Python, JavaScript**
 
 - 📫 How to reach me **reisfilipe102@gmail.com**
