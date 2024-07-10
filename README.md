@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reisfilipe2002&label=Profile%20views&color=0e75b6&style=flat" alt="reisfilipe2002" /> </p>
 
-- 🔭 I’m currently working on **Movie Matcher**
-
 - 💬 Ask me about **Ruby, Rails, Python, JavaScript**
 
 - 📫 How to reach me **reisfilipe102@gmail.com**
